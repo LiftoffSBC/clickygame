@@ -1,0 +1,13 @@
+.wrapper {
+    /* padding-top: 50px; */
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/1/15/My_Little_Pony_%28TV_series%29_title_card.jpg/250px-My_Little_Pony_%28TV_series%29_title_card.jpg");
+    background-size: auto;
+    background-position: center;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 50px 10%;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+}

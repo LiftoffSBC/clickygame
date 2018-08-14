@@ -1,0 +1,50 @@
+[
+    {
+        "type": "Applejack",
+        "image": "https://vignette.wikia.nocookie.net/mlp/images/d/d8/Applejack_S01E13_cropped.png/revision/latest?cb=20130419182236"
+    },
+    {
+        "type": "Rainbow Dash",
+        "image": "https://vignette.wikia.nocookie.net/my-little-pony-friendship-is-magic-rakoon1/images/c/c3/Rainbow_Dash_ID_S3E7.png/revision/latest?cb=20160612121136"
+    },
+    {
+        "type": "Pinkie Pie",
+        "image": "https://s7.leapfrog.com/is/image/LeapFrog/my-little-pony-adventures-pinkie-pie_58797-96914_1?$prod-lg$&$label=Just%20for%20Fun%20Video"
+    },
+    {
+        "type": "Rarity",
+        "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-my-little-pony-friendship-is-magic-rarity.jpg"
+    },
+    {
+        "type": "Twilight Sparkle",
+        "image": "https://vignette.wikia.nocookie.net/mlp/images/6/6c/Twilight_S2E25_cropped.png/revision/latest?cb=20160315121005"
+    },
+    {
+        "type": "Fluttershy",
+        "image": "https://vignette.wikia.nocookie.net/mlp/images/d/d6/Fluttershy_ID_S1E17.png/revision/latest?cb=20131108045518"
+    },
+    {
+        "type": "Feathermay",
+        "image": "https://vignette.wikia.nocookie.net/bronies/images/4/47/Feathermay-feathermay-my-little-pony-fim-30829847-400-349_2.jpg/revision/latest?cb=20131110002114"
+    },
+    {
+        "type": "Blossomforth",
+        "image": "https://i.pinimg.com/236x/f3/eb/72/f3eb728c70ffe0cc084cf447a6f8afbf--my-little-pony.jpg"
+    },
+    {
+        "type": "Lulu Luck",
+        "image": "https://orig00.deviantart.net/4bdd/f/2011/170/e/9/lulu_luck_by_durpy-d3jbrzi.png"
+    },
+    {
+        "type": "Star Swirl",
+        "image": "http://fc03.deviantart.net/fs71/f/2011/158/e/8/star_swirl_by_durpy-d3gkz30.png"
+    },
+    {
+        "type": "Dewdrop Dazzle",
+        "image": "https://orig00.deviantart.net/877b/f/2011/172/4/5/dewdrop_dazzle_2_by_durpy-d3jmqut.png"
+    },
+    {
+        "type": "Stardash",
+        "image": "https://orig00.deviantart.net/7c54/f/2011/235/b/b/star_dash_ref_by_flyingpinkiepie-d47jhtm.png"
+    }
+]
