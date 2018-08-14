@@ -15,7 +15,7 @@ This app is a memory game with Create React App.
 Check out the app here:
 [My Little Pony Clicky Game](https://liftoffsbc.github.io/clickygame/)
 
-![Screenshot](https://raw.githubusercontent.com/liftoffsbc/clickygame/master/public/img/Screen.png)
+![Screenshot](https://raw.githubusercontent.com/liftoffsbc/clickygame/master/clicky/public/img/Screen.png)
 
 
 
